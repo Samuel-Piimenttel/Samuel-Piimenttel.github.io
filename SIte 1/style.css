@@ -1,0 +1,15 @@
+/* Imagem do galinho da TOG */
+header 
+{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.links
+{
+    margin-top: 150px;
+}
+body
+{
+    background-image: url(imagem/XWt4YZC5_400x400.jpg);
+}
